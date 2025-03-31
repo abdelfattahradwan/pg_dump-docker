@@ -6,7 +6,7 @@ LABEL org.opencontainers.image.title="Minimal pg_dump"
 LABEL org.opencontainers.image.description="A lightweight Docker image containing only the pg_dump utility"
 LABEL org.opencontainers.image.version="17"
 LABEL org.opencontainers.image.authors="Abdelfattah Radwan <aradwan620@gmail.com>"
-LABEL org.opencontainers.image.source="https://github.com/abdelfattahradwan/pg_dump-minimal"
+LABEL org.opencontainers.image.source="https://github.com/abdelfattahradwan/pg_dump-docker"
 LABEL org.opencontainers.image.licenses="MIT"
 LABEL org.opencontainers.image.created="2025-03-31"
 
