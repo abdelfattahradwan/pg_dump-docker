@@ -1,4 +1,4 @@
-FROM postgres:17 AS builder
+FROM postgres:17@sha256:864831322bf2520e7d03d899b01b542de6de9ece6fe29c89f19dc5e1d5568ccf AS builder
 
 FROM scratch
 
